@@ -1,2 +1,3 @@
 cars
-dogs
+dog
+cats

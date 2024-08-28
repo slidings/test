@@ -1,2 +1,6 @@
+cars
 dogs
-cas
+<<<<<<< HEAD
+=======
+cats
+>>>>>>> fix1
